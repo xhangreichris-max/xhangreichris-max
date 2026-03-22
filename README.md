@@ -1,6 +1,6 @@
 # Christopher Shangrei
 
-HTML Email Developer focused on **Outlook-safe**, **responsive**, and **production-ready** email builds.
+HTML Email Developer focused on **Outlook-safe**, **responsive**, and **production-ready** email builds.I specialize in building promotional, transactional, newsletter, and lifecycle email experiences for modern brands.
 
 I build email projects and portfolio case studies with:
 - Table-based email layouts
